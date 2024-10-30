@@ -18,5 +18,14 @@
     <ClCompile Include="Pb1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pb2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
