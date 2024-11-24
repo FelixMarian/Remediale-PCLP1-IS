@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune4-S8\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB15B3F-69E8-49A1-8F57-05DFBC78CBCF}|Project1\\Project1.vcxproj|C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune4-S8\\Project1\\Project1\\Pb2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB15B3F-69E8-49A1-8F57-05DFBC78CBCF}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Pb2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pb2.c",
+              "DocumentMoniker": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune4-S8\\Project1\\Project1\\Pb2.c",
+              "RelativeDocumentMoniker": "Project1\\Pb2.c",
+              "ToolTip": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune4-S8\\Project1\\Project1\\Pb2.c",
+              "RelativeToolTip": "Project1\\Pb2.c",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-20T18:27:07.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

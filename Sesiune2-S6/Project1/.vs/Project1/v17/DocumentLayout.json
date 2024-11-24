@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B36C9B1-5640-45E6-AFB1-717257B0A1E6}|Project1\\Project1.vcxproj|C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B36C9B1-5640-45E6-AFB1-717257B0A1E6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Pb5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B36C9B1-5640-45E6-AFB1-717257B0A1E6}|Project1\\Project1.vcxproj|C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B36C9B1-5640-45E6-AFB1-717257B0A1E6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Pb4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B36C9B1-5640-45E6-AFB1-717257B0A1E6}|Project1\\Project1.vcxproj|C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B36C9B1-5640-45E6-AFB1-717257B0A1E6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Pb3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B36C9B1-5640-45E6-AFB1-717257B0A1E6}|Project1\\Project1.vcxproj|C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B36C9B1-5640-45E6-AFB1-717257B0A1E6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Pb2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B36C9B1-5640-45E6-AFB1-717257B0A1E6}|Project1\\Project1.vcxproj|C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B36C9B1-5640-45E6-AFB1-717257B0A1E6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Pb1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pb5.c",
+              "DocumentMoniker": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb5.c",
+              "RelativeDocumentMoniker": "Project1\\Pb5.c",
+              "ToolTip": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb5.c",
+              "RelativeToolTip": "Project1\\Pb5.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-06T19:27:06.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pb4.c",
+              "DocumentMoniker": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb4.c",
+              "RelativeDocumentMoniker": "Project1\\Pb4.c",
+              "ToolTip": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb4.c",
+              "RelativeToolTip": "Project1\\Pb4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-06T19:20:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pb3.c",
+              "DocumentMoniker": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb3.c",
+              "RelativeDocumentMoniker": "Project1\\Pb3.c",
+              "ToolTip": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb3.c",
+              "RelativeToolTip": "Project1\\Pb3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-06T19:13:45.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pb2.c",
+              "DocumentMoniker": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb2.c",
+              "RelativeDocumentMoniker": "Project1\\Pb2.c",
+              "ToolTip": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb2.c",
+              "RelativeToolTip": "Project1\\Pb2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-06T19:08:19.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pb1.c",
+              "DocumentMoniker": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb1.c",
+              "RelativeDocumentMoniker": "Project1\\Pb1.c",
+              "ToolTip": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiune2-S6\\Project1\\Project1\\Pb1.c",
+              "RelativeToolTip": "Project1\\Pb1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-06T18:02:40.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
