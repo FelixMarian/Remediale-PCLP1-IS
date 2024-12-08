@@ -1,0 +1,15 @@
+﻿  Pb1.c
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(144,4): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(147,14): warning C4047: 'function': 'joc *' differs in levels of indirection from 'joc (*)[50]'
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(147,14): warning C4024: 'citireJoc': different types for formal and actual parameter 1
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(150,12): warning C4047: 'function': 'joc *' differs in levels of indirection from 'joc (*)[50]'
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(150,12): warning C4024: 'afisare': different types for formal and actual parameter 1
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(155,20): warning C4047: 'function': 'joc *' differs in levels of indirection from 'joc (*)[50]'
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(155,20): warning C4024: 'cautareDupaNume': different types for formal and actual parameter 1
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(160,21): warning C4047: 'function': 'joc *' differs in levels of indirection from 'joc (*)[50]'
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(160,21): warning C4024: 'afisarePretMaxim': different types for formal and actual parameter 1
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(163,28): warning C4047: 'function': 'joc *' differs in levels of indirection from 'joc (*)[50]'
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(163,28): warning C4024: 'afisareOrdineAlfabetica': different types for formal and actual parameter 1
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(168,13): warning C4047: 'function': 'joc *' differs in levels of indirection from 'joc (*)[50]'
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\Sesiunea5-S9\Pb1.c(168,13): warning C4024: 'stergere': different types for formal and actual parameter 1
+  Sesiunea5-S9.vcxproj -> C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiune4-S8\Sesiunea5-S9\x64\Debug\Sesiunea5-S9.exe
