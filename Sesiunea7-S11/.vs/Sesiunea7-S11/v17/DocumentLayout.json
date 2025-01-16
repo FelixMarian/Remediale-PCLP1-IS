@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiunea7-S11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEB010-ACF8-4DA4-8582-C141B88DDD5A}|Sesiunea7-S11\\Sesiunea7-S11.vcxproj|C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiunea7-S11\\Sesiunea7-S11\\Pb2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04EEB010-ACF8-4DA4-8582-C141B88DDD5A}|Sesiunea7-S11\\Sesiunea7-S11.vcxproj|solutionrelative:Sesiunea7-S11\\Pb2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiunea7-S11\\Sesiunea7-S11\\dada.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sesiunea7-S11\\dada.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dada.txt",
+              "DocumentMoniker": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiunea7-S11\\Sesiunea7-S11\\dada.txt",
+              "RelativeDocumentMoniker": "Sesiunea7-S11\\dada.txt",
+              "ToolTip": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiunea7-S11\\Sesiunea7-S11\\dada.txt",
+              "RelativeToolTip": "Sesiunea7-S11\\dada.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-09T19:57:51.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pb2.c",
+              "DocumentMoniker": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiunea7-S11\\Sesiunea7-S11\\Pb2.c",
+              "RelativeDocumentMoniker": "Sesiunea7-S11\\Pb2.c",
+              "ToolTip": "C:\\Users\\stoen\\Desktop\\Remediale-PCLP1-IS\\Sesiunea7-S11\\Sesiunea7-S11\\Pb2.c",
+              "RelativeToolTip": "Sesiunea7-S11\\Pb2.c",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-09T19:12:38.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

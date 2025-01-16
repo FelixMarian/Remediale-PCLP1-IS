@@ -1,0 +1,16 @@
+﻿  Pb2.c
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(34,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(46,16): warning C4101: 'nr2': unreferenced local variable
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(46,11): warning C4101: 'nr1': unreferenced local variable
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(69,6): warning C4101: 'aux': unreferenced local variable
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(105,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(140,25): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(140,25): warning C4024: 'adaugareLeguma': different types for formal and actual parameter 2
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(143,26): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(143,26): warning C4024: 'afisareDescresc': different types for formal and actual parameter 2
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(146,28): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(146,28): warning C4024: 'stergereSiAfisare': different types for formal and actual parameter 2
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(149,23): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(149,23): warning C4024: 'sortareQSort': different types for formal and actual parameter 2
+C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\Sesiunea7-S11\Pb2.c(126,7): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+  Sesiunea7-S11.vcxproj -> C:\Users\stoen\Desktop\Remediale-PCLP1-IS\Sesiunea7-S11\x64\Debug\Sesiunea7-S11.exe
